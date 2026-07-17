@@ -29,15 +29,11 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
-(Honours) program at Conestoga College.
+Hello — I'm Ubah Hasan, a student in the Bachelor of Applied Biotechnology (Honours) program at Conestoga College.
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
+I am interested in biotechnology applications that connect molecular biology with real-world problem solving, especially in areas such as immunology, plant defense mechanisms, and bioinformatics-driven analysis. I enjoy understanding how biological systems respond to stress, signals, and pathogens, and how data can reveal those molecular changes.
 
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
+Bioinformatics is essential to my career goals because it allows me to interpret complex datasets, connect gene expression to biological function, and apply computational tools to real scientific questions.
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
