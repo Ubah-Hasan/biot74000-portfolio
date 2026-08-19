@@ -35,5 +35,4 @@ I am interested in biotechnology applications that connect molecular biology wit
 
 Bioinformatics is essential to my career goals because it allows me to interpret complex datasets, connect gene expression to biological function, and apply computational tools to real scientific questions.
 
-This portfolio documents the bioinformatics tools, methods, and skills I have
-developed, and how I have applied them.
+
