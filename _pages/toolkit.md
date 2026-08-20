@@ -78,14 +78,19 @@ organized by what they are used for._
 
 ### R Base Plotting
 
-**Use example:** I used base R plotting functions (hist(), plot()) to visualize DNase concentration vs. optical density and to inspect data distributions before analysis.
+**Use example:** I used base R plotting functions such as plot() and hist() to quickly explore Aspergillus niger colony diameter across different heavy‑metal concentrations (Ni, Zn, Pb). These initial checks helped me confirm trends and identify any unusual values before generating final figures.
 
+**Strengths / limitations:**  Fast and simple for early exploration; useful for checking raw patterns in diameter vs. concentration.
 
-**Strengths / limitations:**  Simple, fast, built into R; ideal for quick exploratory checks.
-Limited styling; requires manual adjustments for publication‑quality figures.
 
 ---
 
+### ggplot2
+
+**Use example:** I used ggplot2 to create the final bar plots, scatter plots, and error‑bar figures showing how A. niger colony diameter changed with increasing metal concentration. This included grouped bar charts for Day 1 vs Day 2 and dose‑response curves for Ni, Zn, and Pb.
+
+
+**Strengths / limitations:**  Highly customizable and ideal for producing clear, professional figures suitable for assignments and reports.
 <!--
   Add more categories and entries by copying the pattern above.
   Aim for a toolkit that reads like notes a working professional would keep.
