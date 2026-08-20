@@ -37,7 +37,7 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| NCBI Gene Navigation | [Retrieve gene records, explore genome context, and interpret metadata confidently. |
+| NCBI Gene Navigation | Retrieve gene records, explore genome context, and interpret metadata confidently. |
 | Retrieving FASTA Sequences | Download and interpret nucleotide FASTA files for downstream analysis |
 | BLASTN Interpretation | Evaluate identity, coverage, E‑value, bit score, and taxonomic spread of hits. |
 | UniProt Functional Lookup | Retrieve protein domains, variants, and functional annotations. |
