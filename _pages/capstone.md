@@ -21,4 +21,4 @@ This analysis showed a clear negative dose‑response trend: as metal concentrat
 
 Adding this bioinformatics analysis made my capstone stronger by providing quantitative evidence for the inhibitory effects of heavy metals on A. niger. The R workflow allowed me to visualize trends clearly, validate our experimental observations, and support the conclusion that colony diameter can be used as a practical indicator of metal stress.
 
-![Nickel dose-response figure](/biot74000-portfolio/images/average of Ni kill.png)
+![Nickel dose-response figure](/biot74000-portfolio/images/kill-Ni.png)
