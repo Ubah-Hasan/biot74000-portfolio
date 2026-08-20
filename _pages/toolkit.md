@@ -61,7 +61,4 @@ organized by what they are used for._
 
 
 **Strengths / limitations:**  Highly customizable and ideal for producing clear, professional figures suitable for assignments and reports.
-<!--
-  Add more categories and entries by copying the pattern above.
-  Aim for a toolkit that reads like notes a working professional would keep.
--->
+
